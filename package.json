@@ -1,0 +1,8 @@
+{
+  "name": "w2-ai-learning-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "W² Ai educational website with server-side Gemini AI integration",
+  "scripts": { "dev": "vercel dev" },
+  "devDependencies": { "vercel": "^41.0.0" }
+}
